@@ -41,6 +41,8 @@ label {
 input {
   padding: 5px;
   margin-bottom: 10px;
+  border: none;
+  border-radius: 6px;
 }
 
 button {
@@ -48,7 +50,7 @@ button {
   padding: 8px 13px;
   background-color: rgb(220, 220, 143);
   border: none;
-  border-radius: 16px;
+  border-radius: 10px;
 }
 
 #result {
