@@ -10,7 +10,7 @@ body {
 .main_checker {
   margin: auto;
   margin-top: 4rem;
-  width: 50%;
+  width: 52%;
   text-align: center;
 }
 img {
@@ -39,7 +39,7 @@ label {
 }
 
 input {
-  padding: 5px;
+  padding: 7px;
   margin-bottom: 10px;
   border: none;
   border-radius: 6px;
